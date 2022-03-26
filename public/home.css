@@ -1,5 +1,15 @@
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
 h1 {
-    text-transform: uppercase;
-    text-decoration: underline;
-    color:red;
-  }
+  text-transform: uppercase;
+  text-align: center;
+}
+
+body {
+  font-family: cursive;
+  font-style: roboto;
+}
